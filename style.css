@@ -20,24 +20,3 @@ button{
 #section2, #section3, #section4, #section5{
     display: none;
 }
-
-.alert1{
-    background-color: #1bd152;
-    height: 30px;
-    display: none;
-}
-
-.first{
-    padding: 7px;
-}
-
-
-.alert2{
-    background-color: #f0ea48;
-    height: 30px;
-    display: none;
-}
-
-.second{
-    padding: 7px;
-}
